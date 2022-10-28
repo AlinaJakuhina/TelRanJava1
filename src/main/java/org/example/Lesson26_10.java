@@ -24,6 +24,7 @@ public class Lesson26_10 {
 
         //For
         int sum_for = 0;
+
         for (int i = 0; i <= maxValue; i ++) {
             sum_for = sum_for + i;
         }
